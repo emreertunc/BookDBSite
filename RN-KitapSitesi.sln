@@ -13,6 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServerClassLibrary", "Serve
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrtakClassLibrary", "OrtakClassLibrary\OrtakClassLibrary.csproj", "{505D3364-6E42-41F8-8CF6-DC85F9E42967}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "example database", "example database", "{1B4FE2D3-C4E3-461D-9CB1-4FE745098178}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Google Drive\üni ders notları\babam - ortak klasor\3. sınıf 2. dönem\final\nesne\Teslim_Oncesi_Son_calisan_Bahri\KitaplarDB2bh.dacpac = ..\..\..\Google Drive\üni ders notları\babam - ortak klasor\3. sınıf 2. dönem\final\nesne\Teslim_Oncesi_Son_calisan_Bahri\KitaplarDB2bh.dacpac
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
