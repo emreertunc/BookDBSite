@@ -1,0 +1,57 @@
+﻿
+<EditForm Model="Kisi" OnValidSubmit="OnValidSubmit">
+    <DataAnnotationsValidator />
+
+    <div class="form-group">
+        <label for="name">İsim</label>
+        <div>
+            <InputText class="form-control" @bind-Value="@Kisi.Isim" />
+            <ValidationMessage For="@(() => Kisi.Isim)" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label for="name">Doğum Tarihi</label>
+        <div>
+            <InputDate class="form-control" @bind-Value="@Kisi.DogumTarihi" />
+            <ValidationMessage For="@(() => Kisi.DogumTarihi)" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <InputImg Label="Resim" OnSelectedImage="PictureSelected" ImageURL="@imageURL" />
+    </div>
+
+    <div class="form-group form-markdown">
+        <InputMarkdown 
+                       @bind-Value="Kisi.Biyografi"
+                       Label="Biyografi"
+                       For="@(() => Kisi.Biyografi)"
+                       />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Gönder</button>
+
+</EditForm>
+
+@code {
+    [Parameter] public Kisi Kisi { get; set; }
+    [Parameter] public EventCallback OnValidSubmit { get; set; }
+    string imageURL;
+
+    protected override void OnInitialized()
+    {
+        if (!string.IsNullOrEmpty(Kisi.Resim))
+        {
+            imageURL = Kisi.Resim;
+            Kisi.Resim = null;
+        }
+    }
+
+    private void PictureSelected(string imageBase64)
+    {
+        Kisi.Resim = imageBase64;
+        imageURL = null;
+        Console.WriteLine(imageBase64);
+    }
+}

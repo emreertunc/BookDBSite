@@ -1,0 +1,48 @@
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\ServerClassLibrary\obj\Debug\netcoreapp3.0\ServerClassLibrary.csprojAssemblyReference.cache
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\ServerClassLibrary\obj\Debug\netcoreapp3.0\ServerClassLibrary.AssemblyInfoInputs.cache
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\ServerClassLibrary\obj\Debug\netcoreapp3.0\ServerClassLibrary.AssemblyInfo.cs
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\ServerClassLibrary\bin\Debug\netcoreapp3.0\ServerClassLibrary.deps.json
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\ServerClassLibrary\bin\Debug\netcoreapp3.0\ServerClassLibrary.dll
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\ServerClassLibrary\bin\Debug\netcoreapp3.0\OrtakClassLibrary.dll
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\ServerClassLibrary\bin\Debug\netcoreapp3.0\OrtakClassLibrary.pdb
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\ServerClassLibrary\obj\Debug\netcoreapp3.0\ServerClassLibrary.csproj.CopyComplete
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\ServerClassLibrary\bin\Debug\netcoreapp3.0\ServerClassLibrary.pdb
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\ServerClassLibrary\obj\Debug\netcoreapp3.0\ServerClassLibrary.dll
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\ServerClassLibrary\obj\Debug\netcoreapp3.0\ServerClassLibrary.pdb
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\ServerClassLibrary\obj\Debug\netcoreapp3.0\ServerClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite-Rename\RN-KitapSite\ServerClassLibrary\bin\Debug\netcoreapp3.0\ServerClassLibrary.deps.json
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite-Rename\RN-KitapSite\ServerClassLibrary\bin\Debug\netcoreapp3.0\ServerClassLibrary.dll
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite-Rename\RN-KitapSite\ServerClassLibrary\bin\Debug\netcoreapp3.0\ServerClassLibrary.pdb
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite-Rename\RN-KitapSite\ServerClassLibrary\bin\Debug\netcoreapp3.0\OrtakClassLibrary.dll
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite-Rename\RN-KitapSite\ServerClassLibrary\bin\Debug\netcoreapp3.0\OrtakClassLibrary.pdb
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite-Rename\RN-KitapSite\ServerClassLibrary\obj\Debug\netcoreapp3.0\ServerClassLibrary.csprojAssemblyReference.cache
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite-Rename\RN-KitapSite\ServerClassLibrary\obj\Debug\netcoreapp3.0\ServerClassLibrary.AssemblyInfoInputs.cache
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite-Rename\RN-KitapSite\ServerClassLibrary\obj\Debug\netcoreapp3.0\ServerClassLibrary.AssemblyInfo.cs
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite-Rename\RN-KitapSite\ServerClassLibrary\obj\Debug\netcoreapp3.0\ServerClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite-Rename\RN-KitapSite\ServerClassLibrary\obj\Debug\netcoreapp3.0\ServerClassLibrary.csproj.CopyComplete
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite-Rename\RN-KitapSite\ServerClassLibrary\obj\Debug\netcoreapp3.0\ServerClassLibrary.dll
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite-Rename\RN-KitapSite\ServerClassLibrary\obj\Debug\netcoreapp3.0\ServerClassLibrary.pdb
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\ServerClassLibrary\bin\Debug\netcoreapp3.0\ServerClassLibrary.deps.json
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\ServerClassLibrary\bin\Debug\netcoreapp3.0\ServerClassLibrary.dll
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\ServerClassLibrary\bin\Debug\netcoreapp3.0\ServerClassLibrary.pdb
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\ServerClassLibrary\bin\Debug\netcoreapp3.0\OrtakClassLibrary.dll
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\ServerClassLibrary\bin\Debug\netcoreapp3.0\OrtakClassLibrary.pdb
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\ServerClassLibrary\obj\Debug\netcoreapp3.0\ServerClassLibrary.csprojAssemblyReference.cache
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\ServerClassLibrary\obj\Debug\netcoreapp3.0\ServerClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\ServerClassLibrary\obj\Debug\netcoreapp3.0\ServerClassLibrary.AssemblyInfo.cs
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\ServerClassLibrary\obj\Debug\netcoreapp3.0\ServerClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\ServerClassLibrary\obj\Debug\netcoreapp3.0\ServerClassLibrary.csproj.CopyComplete
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\ServerClassLibrary\obj\Debug\netcoreapp3.0\ServerClassLibrary.dll
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\ServerClassLibrary\obj\Debug\netcoreapp3.0\ServerClassLibrary.pdb
+C:\Users\Emre\source\repos\RN-KitapSite\ServerClassLibrary\bin\Debug\netcoreapp3.0\ServerClassLibrary.deps.json
+C:\Users\Emre\source\repos\RN-KitapSite\ServerClassLibrary\bin\Debug\netcoreapp3.0\ServerClassLibrary.dll
+C:\Users\Emre\source\repos\RN-KitapSite\ServerClassLibrary\bin\Debug\netcoreapp3.0\ServerClassLibrary.pdb
+C:\Users\Emre\source\repos\RN-KitapSite\ServerClassLibrary\bin\Debug\netcoreapp3.0\OrtakClassLibrary.dll
+C:\Users\Emre\source\repos\RN-KitapSite\ServerClassLibrary\bin\Debug\netcoreapp3.0\OrtakClassLibrary.pdb
+C:\Users\Emre\source\repos\RN-KitapSite\ServerClassLibrary\obj\Debug\netcoreapp3.0\ServerClassLibrary.csprojAssemblyReference.cache
+C:\Users\Emre\source\repos\RN-KitapSite\ServerClassLibrary\obj\Debug\netcoreapp3.0\ServerClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Emre\source\repos\RN-KitapSite\ServerClassLibrary\obj\Debug\netcoreapp3.0\ServerClassLibrary.AssemblyInfo.cs
+C:\Users\Emre\source\repos\RN-KitapSite\ServerClassLibrary\obj\Debug\netcoreapp3.0\ServerClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\RN-KitapSite\ServerClassLibrary\obj\Debug\netcoreapp3.0\ServerClassLibrary.csproj.CopyComplete
+C:\Users\Emre\source\repos\RN-KitapSite\ServerClassLibrary\obj\Debug\netcoreapp3.0\ServerClassLibrary.dll
+C:\Users\Emre\source\repos\RN-KitapSite\ServerClassLibrary\obj\Debug\netcoreapp3.0\ServerClassLibrary.pdb

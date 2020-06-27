@@ -1,0 +1,26 @@
+﻿@page "/kitaptur/edit/{KitapturId:int}"
+@inject IKitapturRepository kitapturRepository
+@inject NavigationManager navigationManager
+
+<h3>Kitap Türlerini Düzenle</h3>
+
+@if (kitaptur != null)
+{
+    <KitapturForm Kitaptur="kitaptur" OnValidSubmit="Edit" />
+}
+
+@code {
+    [Parameter] public int KitapturId { get; set; }
+    public Kitaptur kitaptur;
+
+    protected override async Task OnInitializedAsync()
+    {
+        kitaptur = await kitapturRepository.GetKitaptur(KitapturId);
+    }
+
+    private void Edit()
+    {
+        kitapturRepository.UpdateKitaptur(kitaptur);
+        navigationManager.NavigateTo("kitapturler");
+    }
+}

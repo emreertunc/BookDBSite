@@ -1,0 +1,117 @@
+﻿@inject IKisiRepository kisiRepository
+
+<EditForm Model="Kitap" OnValidSubmit="OnDataAnnotationsValidated">
+    <DataAnnotationsValidator />
+    <div class="form-group">
+        <label>Başlık:</label>
+        <div>
+            <InputText class="form-control" @bind-Value="@Kitap.Baslik" />
+            <ValidationMessage For="@(() => Kitap.Baslik)" />
+        </div>
+    </div>
+    <div class="form-group">
+        <label>Okunmaya değer</label>
+        <div>
+            <InputCheckbox @bind-Value="Kitap.KitapListele" />
+            <ValidationMessage For="@(() => Kitap.KitapListele)" />
+        </div>
+    </div>
+    <div class="form-group">
+        <label>Tanıtım Videosu:</label>
+        <div>
+            <InputText class="form-control" @bind-Value="@Kitap.TanitimVideo" />
+            <ValidationMessage For="@(() => Kitap.TanitimVideo)" />
+        </div>
+    </div>
+    <div class="form-group">
+        <label>Yayın Tarihi:</label>
+        <div>
+            <InputDate class="form-control" @bind-Value="@Kitap.YayinTarihi" />
+            <ValidationMessage For="@(() => Kitap.YayinTarihi)" />
+        </div>
+    </div>
+    <div class="form-group">
+        <InputImg Label="Kitap Kapağı" OnSelectedImage="KapakSelected" ImageURL="@imageURL" />
+    </div>
+
+    <div class="form-group form-markdown">
+        <InputMarkdown @bind-Value="Kitap.Ozet"
+                       Label="Kitap Özeti"
+                       For="@(() => Kitap.Ozet)" />
+    </div>
+
+    <div class="form-group">
+        <label>Kitap Türleri:</label>
+        <div>
+            <MultipleSelector Selected="Selected" NoSelected="NotSelected"></MultipleSelector>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label>Yazarlar:</label>
+        <div>
+            <MultipleSelectorTypeahead Context="kisi"
+                                       SearchMethod="SearchMethod" SelectedElements="SelectedYazarlar">
+                <MyResultTemplate>
+                    <img style="width: 50px;" src="@kisi.Resim" />
+                    @kisi.Isim
+                </MyResultTemplate>
+                <MyListTemplate>
+                    @kisi.Isim 
+                </MyListTemplate>
+            </MultipleSelectorTypeahead>
+        </div>
+    </div>
+
+    <button class="btn btn-primary" type="submit">Değişiklikleri Sakla</button>
+</EditForm>
+
+@code {
+    [Parameter] public Kitap Kitap { get; set; }
+    [Parameter] public EventCallback OnValidSubmit { get; set; }
+    [Parameter] public List<Kitaptur> SelectedKitapturler { get; set; } = new List<Kitaptur>();
+    [Parameter] public List<Kitaptur> NotSelectedKitapturler { get; set; } = new List<Kitaptur>();
+    [Parameter] public List<Kisi> SelectedYazarlar { get; set; } = new List<Kisi>();
+
+    private List<MultipleSelectorModel> Selected = new List<MultipleSelectorModel>();
+    private List<MultipleSelectorModel> NotSelected = new List<MultipleSelectorModel>();
+
+    private string imageURL;
+
+    protected override void OnInitialized()
+    {
+        Selected = SelectedKitapturler.Select(x => new MultipleSelectorModel(x.Id.ToString(), x.Isim)).ToList();
+        NotSelected = NotSelectedKitapturler.Select(x => new MultipleSelectorModel(x.Id.ToString(), x.Isim)).ToList();
+
+        if (!string.IsNullOrEmpty(Kitap.KitapKapak))
+        {
+            imageURL = Kitap.KitapKapak;
+            Kitap.KitapKapak = null;
+        }
+    }
+
+    private void KapakSelected(string imageBase64)
+    {
+        Kitap.KitapKapak = imageBase64;
+        imageURL = null;
+        Console.WriteLine(imageBase64);
+    }
+
+    private async Task<IEnumerable<Kisi>> SearchMethod(string searchText)
+    {
+        return await kisiRepository.GetKisilerByName(searchText);
+    }
+
+    private async Task OnDataAnnotationsValidated()
+    {
+        Kitap.KitaplarKitapturler = Selected
+            .Select(x => new KitaplarKitapturler { KitapturId = int.Parse(x.Key) }).ToList();
+
+        Kitap.KitapYazarlari = SelectedYazarlar
+            .Select(x => new KitapYazarlari { KisiId = x.Id, Character = x.Character }).ToList();
+
+        if (!string.IsNullOrWhiteSpace(Kitap.KitapKapak)) { imageURL = null; }
+
+        await OnValidSubmit.InvokeAsync(null);
+    }
+}

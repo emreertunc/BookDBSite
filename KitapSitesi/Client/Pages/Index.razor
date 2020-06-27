@@ -1,0 +1,17 @@
+﻿@page "/"
+@page "/index"
+@inject IKitaplarRepository kitaplarRepository
+
+<div>
+    <h3>Okunmaya Değer Kitaplar</h3>
+    <KitaplarList Kitaplar="KitapListele" />
+</div>
+
+@code{
+    private List<Kitap> KitapListele;
+    protected async override Task OnInitializedAsync()
+    {
+        var response = await kitaplarRepository.GetIndexPageDTO();
+        KitapListele = response.Kitaplistele;
+    }
+}

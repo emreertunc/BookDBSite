@@ -1,0 +1,63 @@
+C:\Users\Emre\source\repos\KitapSite\BlazorMovies\Shared\bin\Debug\netstandard2.0\KitapSitesi.Shared.deps.json
+C:\Users\Emre\source\repos\KitapSite\BlazorMovies\Shared\bin\Debug\netstandard2.0\KitapSitesi.Shared.dll
+C:\Users\Emre\source\repos\KitapSite\BlazorMovies\Shared\bin\Debug\netstandard2.0\KitapSitesi.Shared.pdb
+C:\Users\Emre\source\repos\KitapSite\BlazorMovies\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.csprojAssemblyReference.cache
+C:\Users\Emre\source\repos\KitapSite\BlazorMovies\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.AssemblyInfoInputs.cache
+C:\Users\Emre\source\repos\KitapSite\BlazorMovies\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.AssemblyInfo.cs
+C:\Users\Emre\source\repos\KitapSite\BlazorMovies\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\KitapSite\BlazorMovies\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.dll
+C:\Users\Emre\source\repos\KitapSite\BlazorMovies\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.pdb
+C:\Users\Emre\source\repos\KitapSite\KitapSitesi\Shared\bin\Debug\netstandard2.0\KitapSitesi.Shared.deps.json
+C:\Users\Emre\source\repos\KitapSite\KitapSitesi\Shared\bin\Debug\netstandard2.0\KitapSitesi.Shared.dll
+C:\Users\Emre\source\repos\KitapSite\KitapSitesi\Shared\bin\Debug\netstandard2.0\KitapSitesi.Shared.pdb
+C:\Users\Emre\source\repos\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.csprojAssemblyReference.cache
+C:\Users\Emre\source\repos\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.AssemblyInfoInputs.cache
+C:\Users\Emre\source\repos\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.AssemblyInfo.cs
+C:\Users\Emre\source\repos\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.dll
+C:\Users\Emre\source\repos\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.pdb
+C:\Users\Emre\source\repos\4-7-KitapSite\KitapSite\KitapSitesi\Shared\bin\Debug\netstandard2.0\KitapSitesi.Shared.deps.json
+C:\Users\Emre\source\repos\4-7-KitapSite\KitapSite\KitapSitesi\Shared\bin\Debug\netstandard2.0\KitapSitesi.Shared.dll
+C:\Users\Emre\source\repos\4-7-KitapSite\KitapSite\KitapSitesi\Shared\bin\Debug\netstandard2.0\KitapSitesi.Shared.pdb
+C:\Users\Emre\source\repos\4-7-KitapSite\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.csprojAssemblyReference.cache
+C:\Users\Emre\source\repos\4-7-KitapSite\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.AssemblyInfoInputs.cache
+C:\Users\Emre\source\repos\4-7-KitapSite\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.AssemblyInfo.cs
+C:\Users\Emre\source\repos\4-7-KitapSite\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\4-7-KitapSite\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.dll
+C:\Users\Emre\source\repos\4-7-KitapSite\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.pdb
+C:\Users\Emre\source\repos\5-KitapSite\KitapSite\KitapSitesi\Shared\bin\Debug\netstandard2.0\KitapSitesi.Shared.deps.json
+C:\Users\Emre\source\repos\5-KitapSite\KitapSite\KitapSitesi\Shared\bin\Debug\netstandard2.0\KitapSitesi.Shared.dll
+C:\Users\Emre\source\repos\5-KitapSite\KitapSite\KitapSitesi\Shared\bin\Debug\netstandard2.0\KitapSitesi.Shared.pdb
+C:\Users\Emre\source\repos\5-KitapSite\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.csprojAssemblyReference.cache
+C:\Users\Emre\source\repos\5-KitapSite\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.AssemblyInfoInputs.cache
+C:\Users\Emre\source\repos\5-KitapSite\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.AssemblyInfo.cs
+C:\Users\Emre\source\repos\5-KitapSite\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\5-KitapSite\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.dll
+C:\Users\Emre\source\repos\5-KitapSite\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.pdb
+C:\Users\Emre\source\repos\Yeni-KitapSite\KitapSite\KitapSitesi\Shared\bin\Debug\netstandard2.0\KitapSitesi.Shared.deps.json
+C:\Users\Emre\source\repos\Yeni-KitapSite\KitapSite\KitapSitesi\Shared\bin\Debug\netstandard2.0\KitapSitesi.Shared.dll
+C:\Users\Emre\source\repos\Yeni-KitapSite\KitapSite\KitapSitesi\Shared\bin\Debug\netstandard2.0\KitapSitesi.Shared.pdb
+C:\Users\Emre\source\repos\Yeni-KitapSite\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.csprojAssemblyReference.cache
+C:\Users\Emre\source\repos\Yeni-KitapSite\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.AssemblyInfoInputs.cache
+C:\Users\Emre\source\repos\Yeni-KitapSite\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.AssemblyInfo.cs
+C:\Users\Emre\source\repos\Yeni-KitapSite\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\Yeni-KitapSite\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.dll
+C:\Users\Emre\source\repos\Yeni-KitapSite\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.pdb
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\KitapSitesi\Shared\bin\Debug\netstandard2.0\KitapSitesi.Shared.deps.json
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\KitapSitesi\Shared\bin\Debug\netstandard2.0\KitapSitesi.Shared.dll
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\KitapSitesi\Shared\bin\Debug\netstandard2.0\KitapSitesi.Shared.pdb
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.AssemblyInfoInputs.cache
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.AssemblyInfo.cs
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.dll
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.pdb
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.csprojAssemblyReference.cache
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\KitapSitesi\Shared\bin\Debug\netstandard2.0\KitapSitesi.Shared.deps.json
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\KitapSitesi\Shared\bin\Debug\netstandard2.0\KitapSitesi.Shared.dll
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\KitapSitesi\Shared\bin\Debug\netstandard2.0\KitapSitesi.Shared.pdb
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.csprojAssemblyReference.cache
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.AssemblyInfoInputs.cache
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.AssemblyInfo.cs
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.dll
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\KitapSitesi\Shared\obj\Debug\netstandard2.0\KitapSitesi.Shared.pdb

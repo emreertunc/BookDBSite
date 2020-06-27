@@ -1,0 +1,28 @@
+﻿@page "/kitaptur/create"
+@inject IKitapturRepository kitapturRepository
+@inject NavigationManager navigationManager
+
+<h3>Tür Oluştur</h3>
+
+<KitapturForm Kitaptur="kitaptur" OnValidSubmit="Create" />
+
+@code {
+    private Kitaptur kitaptur = new Kitaptur();
+
+    private async Task Create()
+    {
+        Console.WriteLine("Metod olustur");
+        Console.WriteLine(kitaptur.Isim);
+
+        try
+        {
+            await kitapturRepository.TurOlustur(kitaptur);
+            navigationManager.NavigateTo("kitapturler");
+        }
+        catch(Exception ex)
+        {
+            // ...
+            Console.WriteLine(ex.Message);
+        }
+    }
+}

@@ -1,0 +1,17 @@
+﻿<EditForm Model="Kitaptur" OnValidSubmit="OnValidSubmit">
+    <DataAnnotationsValidator />
+    <div class="form-group">
+        <label>İsim:</label>
+        <div>
+            <InputText class="form-control" @bind-Value="@Kitaptur.Isim" />
+            <ValidationMessage For="@(() => Kitaptur.Isim)" />
+        </div>
+    </div>
+
+    <button class="btn btn-secondary" type="submit">Değişiklikleri Sakla</button>
+</EditForm>
+
+@code {
+    [Parameter] public Kitaptur Kitaptur { get; set; }
+    [Parameter] public EventCallback OnValidSubmit { get; set; }
+}

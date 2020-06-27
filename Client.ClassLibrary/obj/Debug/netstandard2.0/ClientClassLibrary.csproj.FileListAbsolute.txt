@@ -1,0 +1,60 @@
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.csprojAssemblyReference.cache
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.AssemblyInfoInputs.cache
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.AssemblyInfo.cs
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\Client.ClassLibrary\bin\Debug\netstandard2.0\ClientClassLibrary.deps.json
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\Client.ClassLibrary\bin\Debug\netstandard2.0\ClientClassLibrary.dll
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\Client.ClassLibrary\bin\Debug\netstandard2.0\ClientClassLibrary.pdb
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\Client.ClassLibrary\bin\Debug\netstandard2.0\KitapSitesi.Shared.dll
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\Client.ClassLibrary\bin\Debug\netstandard2.0\KitapSitesi.Shared.pdb
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.csproj.CopyComplete
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.dll
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.pdb
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\Client.ClassLibrary\bin\Debug\netstandard2.0\ClientClassLibrary.deps.json
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\Client.ClassLibrary\bin\Debug\netstandard2.0\ClientClassLibrary.dll
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\Client.ClassLibrary\bin\Debug\netstandard2.0\ClientClassLibrary.pdb
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.csprojAssemblyReference.cache
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.AssemblyInfoInputs.cache
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.AssemblyInfo.cs
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.csproj.CopyComplete
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.dll
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.pdb
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\Client.ClassLibrary\bin\Debug\netstandard2.0\OrtakClassLibrary.dll
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\Client.ClassLibrary\bin\Debug\netstandard2.0\OrtakClassLibrary.pdb
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite-Rename\RN-KitapSite\Client.ClassLibrary\bin\Debug\netstandard2.0\ClientClassLibrary.deps.json
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite-Rename\RN-KitapSite\Client.ClassLibrary\bin\Debug\netstandard2.0\ClientClassLibrary.dll
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite-Rename\RN-KitapSite\Client.ClassLibrary\bin\Debug\netstandard2.0\ClientClassLibrary.pdb
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite-Rename\RN-KitapSite\Client.ClassLibrary\bin\Debug\netstandard2.0\OrtakClassLibrary.dll
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite-Rename\RN-KitapSite\Client.ClassLibrary\bin\Debug\netstandard2.0\OrtakClassLibrary.pdb
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite-Rename\RN-KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.csprojAssemblyReference.cache
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite-Rename\RN-KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.AssemblyInfoInputs.cache
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite-Rename\RN-KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.AssemblyInfo.cs
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite-Rename\RN-KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite-Rename\RN-KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.csproj.CopyComplete
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite-Rename\RN-KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.dll
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite-Rename\RN-KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.pdb
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\Client.ClassLibrary\bin\Debug\netstandard2.0\ClientClassLibrary.deps.json
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\Client.ClassLibrary\bin\Debug\netstandard2.0\ClientClassLibrary.dll
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\Client.ClassLibrary\bin\Debug\netstandard2.0\ClientClassLibrary.pdb
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\Client.ClassLibrary\bin\Debug\netstandard2.0\OrtakClassLibrary.dll
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\Client.ClassLibrary\bin\Debug\netstandard2.0\OrtakClassLibrary.pdb
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.csprojAssemblyReference.cache
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.AssemblyInfo.cs
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.csproj.CopyComplete
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.dll
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.pdb
+C:\Users\Emre\source\repos\RN-KitapSite\Client.ClassLibrary\bin\Debug\netstandard2.0\ClientClassLibrary.deps.json
+C:\Users\Emre\source\repos\RN-KitapSite\Client.ClassLibrary\bin\Debug\netstandard2.0\ClientClassLibrary.dll
+C:\Users\Emre\source\repos\RN-KitapSite\Client.ClassLibrary\bin\Debug\netstandard2.0\ClientClassLibrary.pdb
+C:\Users\Emre\source\repos\RN-KitapSite\Client.ClassLibrary\bin\Debug\netstandard2.0\OrtakClassLibrary.dll
+C:\Users\Emre\source\repos\RN-KitapSite\Client.ClassLibrary\bin\Debug\netstandard2.0\OrtakClassLibrary.pdb
+C:\Users\Emre\source\repos\RN-KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.csprojAssemblyReference.cache
+C:\Users\Emre\source\repos\RN-KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Emre\source\repos\RN-KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.AssemblyInfo.cs
+C:\Users\Emre\source\repos\RN-KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\RN-KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.csproj.CopyComplete
+C:\Users\Emre\source\repos\RN-KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.dll
+C:\Users\Emre\source\repos\RN-KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\ClientClassLibrary.pdb

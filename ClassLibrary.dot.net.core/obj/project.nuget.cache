@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "96f0SIA7st1rOGqI+U89Badwn2if4jG4k0o1RhoNSiREn6eqHS2ilu2OH8jvNBo8vrQHMBoTtJscPAaIkWwCRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ertun\\Downloads\\NavMenuYeni-KitapSite\\KitapSite\\ClassLibrary.dot.net.core\\Client.ClassLibrary.old.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ertun\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.4\\microsoft.aspnetcore.authorization.3.1.4.nupkg.sha512",
+    "C:\\Users\\ertun\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.4\\microsoft.aspnetcore.components.3.1.4.nupkg.sha512",
+    "C:\\Users\\ertun\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\3.1.4\\microsoft.aspnetcore.components.analyzers.3.1.4.nupkg.sha512",
+    "C:\\Users\\ertun\\.nuget\\packages\\microsoft.aspnetcore.metadata\\3.1.4\\microsoft.aspnetcore.metadata.3.1.4.nupkg.sha512",
+    "C:\\Users\\ertun\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.4\\microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\ertun\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.4\\microsoft.extensions.logging.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\ertun\\.nuget\\packages\\microsoft.extensions.options\\3.1.4\\microsoft.extensions.options.3.1.4.nupkg.sha512",
+    "C:\\Users\\ertun\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.4\\microsoft.extensions.primitives.3.1.4.nupkg.sha512",
+    "C:\\Users\\ertun\\.nuget\\packages\\microsoft.jsinterop\\3.1.4\\microsoft.jsinterop.3.1.4.nupkg.sha512",
+    "C:\\Users\\ertun\\.nuget\\packages\\system.componentmodel.annotations\\4.6.0\\system.componentmodel.annotations.4.6.0.nupkg.sha512",
+    "C:\\Users\\ertun\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

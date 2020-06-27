@@ -1,0 +1,4 @@
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\ClassLibrary.dot.net.core\obj\Debug\netcoreapp3.1\ClassLibrary.dot.net.core.csprojAssemblyReference.cache
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\ClassLibrary.dot.net.core\obj\Debug\netcoreapp3.1\ClassLibrary.dot.net.core.AssemblyInfoInputs.cache
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\ClassLibrary.dot.net.core\obj\Debug\netcoreapp3.1\ClassLibrary.dot.net.core.AssemblyInfo.cs
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\ClassLibrary.dot.net.core\obj\Debug\netcoreapp3.1\ClassLibrary.dot.net.core.csproj.CoreCompileInputs.cache

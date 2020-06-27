@@ -1,0 +1,73 @@
+﻿@page "/kisiler"
+@inject IKisiRepository kisiRepository
+
+<h3>Yazarlar</h3>
+
+<div class="form-group">
+    <a class="btn btn-secondary" href="kisi/create">Yeni Kişi Ekle</a>
+</div>
+
+<Pagination CurrentPage="@paginationDTO.Page" TotalAmountPages="totalAmountPages"
+            SelectedPage="SelectedPage" />
+
+<GenericList List="Kisiler">
+    <WholeListTemplate>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th></th>
+                    <th>Isim</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Kisiler)
+                {
+                    <tr>
+                        <td align="left" width="200px">
+                            <a class="btn btn-secondary" href="/kisi/edit/@item.Id">Düzenle</a>
+                            <button class="btn btn-danger" @onclick="@(() => DeleteKisi(item.Id))">Sil</button>
+                        </td>
+                        <td align="left">@item.Isim</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </WholeListTemplate>
+</GenericList>
+
+@code {
+    List<Kisi> Kisiler;
+    PaginationDTO paginationDTO = new PaginationDTO() { RecordsPerPage = 5 };
+    private int totalAmountPages;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            await LoadKisiler();
+        }
+        catch (Exception ex)
+        {
+
+        }
+    }
+
+    private async Task LoadKisiler()
+    {
+        var paginatedResponse = await kisiRepository.GetKisiler(paginationDTO);
+        Kisiler = paginatedResponse.Response;
+        totalAmountPages = paginatedResponse.TotalAmountPages;
+    }
+
+    private async Task SelectedPage(int page)
+    {
+        paginationDTO.Page = page;
+        await LoadKisiler();
+    }
+
+    private async Task DeleteKisi(int id)
+    {
+        await kisiRepository.DeleteKisi(id);
+        await LoadKisiler();
+    }
+}

@@ -1,0 +1,18 @@
+C:\Users\Emre\source\repos\BlazorMovies\ASP.NET Core 3.2\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\Shared\bin\Debug\netstandard2.0\BlazorMovies.Shared.deps.json
+C:\Users\Emre\source\repos\BlazorMovies\ASP.NET Core 3.2\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\Shared\bin\Debug\netstandard2.0\BlazorMovies.Shared.dll
+C:\Users\Emre\source\repos\BlazorMovies\ASP.NET Core 3.2\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\Shared\bin\Debug\netstandard2.0\BlazorMovies.Shared.pdb
+C:\Users\Emre\source\repos\BlazorMovies\ASP.NET Core 3.2\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\Shared\obj\Debug\netstandard2.0\BlazorMovies.Shared.csprojAssemblyReference.cache
+C:\Users\Emre\source\repos\BlazorMovies\ASP.NET Core 3.2\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\Shared\obj\Debug\netstandard2.0\BlazorMovies.Shared.AssemblyInfoInputs.cache
+C:\Users\Emre\source\repos\BlazorMovies\ASP.NET Core 3.2\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\Shared\obj\Debug\netstandard2.0\BlazorMovies.Shared.AssemblyInfo.cs
+C:\Users\Emre\source\repos\BlazorMovies\ASP.NET Core 3.2\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\Shared\obj\Debug\netstandard2.0\BlazorMovies.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\BlazorMovies\ASP.NET Core 3.2\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\Shared\obj\Debug\netstandard2.0\BlazorMovies.Shared.dll
+C:\Users\Emre\source\repos\BlazorMovies\ASP.NET Core 3.2\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\Shared\obj\Debug\netstandard2.0\BlazorMovies.Shared.pdb
+C:\Users\Emre\source\repos\KitapSite\BlazorMovies\Shared\bin\Debug\netstandard2.0\BlazorMovies.Shared.deps.json
+C:\Users\Emre\source\repos\KitapSite\BlazorMovies\Shared\bin\Debug\netstandard2.0\BlazorMovies.Shared.dll
+C:\Users\Emre\source\repos\KitapSite\BlazorMovies\Shared\bin\Debug\netstandard2.0\BlazorMovies.Shared.pdb
+C:\Users\Emre\source\repos\KitapSite\BlazorMovies\Shared\obj\Debug\netstandard2.0\BlazorMovies.Shared.csprojAssemblyReference.cache
+C:\Users\Emre\source\repos\KitapSite\BlazorMovies\Shared\obj\Debug\netstandard2.0\BlazorMovies.Shared.AssemblyInfoInputs.cache
+C:\Users\Emre\source\repos\KitapSite\BlazorMovies\Shared\obj\Debug\netstandard2.0\BlazorMovies.Shared.AssemblyInfo.cs
+C:\Users\Emre\source\repos\KitapSite\BlazorMovies\Shared\obj\Debug\netstandard2.0\BlazorMovies.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\KitapSite\BlazorMovies\Shared\obj\Debug\netstandard2.0\BlazorMovies.Shared.dll
+C:\Users\Emre\source\repos\KitapSite\BlazorMovies\Shared\obj\Debug\netstandard2.0\BlazorMovies.Shared.pdb

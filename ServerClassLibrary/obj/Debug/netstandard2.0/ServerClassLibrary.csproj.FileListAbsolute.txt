@@ -1,0 +1,9 @@
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\ServerClassLibrary\obj\Debug\netstandard2.0\ServerClassLibrary.csprojAssemblyReference.cache
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\ServerClassLibrary\obj\Debug\netstandard2.0\ServerClassLibrary.AssemblyInfoInputs.cache
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\ServerClassLibrary\obj\Debug\netstandard2.0\ServerClassLibrary.AssemblyInfo.cs
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\ServerClassLibrary\obj\Debug\netstandard2.0\ServerClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\ServerClassLibrary\bin\Debug\netstandard2.0\ServerClassLibrary.deps.json
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\ServerClassLibrary\bin\Debug\netstandard2.0\ServerClassLibrary.dll
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\ServerClassLibrary\bin\Debug\netstandard2.0\OrtakClassLibrary.dll
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\ServerClassLibrary\bin\Debug\netstandard2.0\OrtakClassLibrary.pdb
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\ServerClassLibrary\obj\Debug\netstandard2.0\ServerClassLibrary.csproj.CopyComplete

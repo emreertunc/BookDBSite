@@ -1,0 +1,24 @@
+﻿@page "/kisi/create"
+@inject IKisiRepository kisiRepository
+@inject NavigationManager navigationManager
+
+<h3>Kişi Ekle</h3>
+
+<KisiForm Kisi="Kisi" OnValidSubmit="Create" />
+
+@code {
+    Kisi Kisi = new Kisi(); 
+
+    private async Task Create()
+    {
+        try
+        {
+            await kisiRepository.CreateKisi(Kisi);
+            navigationManager.NavigateTo("kisiler");
+        }
+        catch(Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+    }
+}

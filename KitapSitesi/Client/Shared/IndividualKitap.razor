@@ -1,0 +1,36 @@
+﻿<div class="individual-kitap-container">
+    <a href="@kitapURL">
+        <img src="@kitapKapakURL" alt="Kitap Kapağı" class="kitap-kitapkapak" />
+    </a>
+    <p><a href="@kitapURL">@Kitap.TitleBrief</a></p>
+    <div>
+        <a class="btn btn-secondary" href="/kitaplar/edit/@Kitap.Id">Düzenle</a>
+        <button type="button" class="btn btn-danger"
+                @onclick="@(() => DeleteKitap.InvokeAsync(Kitap))">
+            Sil
+        </button>
+    </div>
+</div>
+
+
+@code {
+    [Parameter] public Kitap Kitap { get; set; }
+    [Parameter] public EventCallback<Kitap> DeleteKitap { get; set; }
+    private string kitapURL = string.Empty;
+    private string kitapKapakURL = string.Empty;
+
+    protected override void OnInitialized()
+    {
+        if (Kitap.KitapKapak != null)
+        {
+            kitapKapakURL = Kitap.KitapKapak;
+        }
+        else
+        {
+            kitapKapakURL = $"/images/ResimYok.png";
+        }
+
+        kitapURL = $"kitap/{Kitap.Id}/{Kitap.Baslik.Replace(" ", "-")}";
+
+    }
+}

@@ -1,0 +1,68 @@
+﻿@page "/kitap/{KitapId:int}"
+@page "/kitap/{KitapId:int}/{KitapName}"
+@inject IKitaplarRepository kitaplarRepository
+
+@if (model == null)
+{
+    <text>Yükleniyor...</text>
+}
+else
+{
+    <h2>@model.Kitap.Baslik (@model.Kitap.YayinTarihi.Value.ToString("yyyy"))</h2>
+    for (int i = 0; i < model.Kitapturler.Count; i++)
+    {
+        if (i < model.Kitapturler.Count - 1)
+        {
+            @linkKitaptur(model.Kitapturler[i])<text>, </text>
+        }
+        else
+        {
+            @linkKitaptur(model.Kitapturler[i])
+        }
+    }
+    <text> | </text> <span>@model.Kitap.YayinTarihi.Value.ToString("dd MMM yyyy")</span>
+
+    <div style="margin-top: 10px;">
+        <h3>Kitap Kapağı</h3>
+        <span style="display: inline-block; margin-right: 5px;"><img src="@model.Kitap.KitapKapak" style="width: 225px; height: 315px" /></span>
+
+    </div>
+    <div style="margin-top: 10px;">
+        <h3>Kitap Özeti</h3>
+        <div>
+            <RenderMarkdown MarkdownContent="@model.Kitap.Ozet" />
+        </div>
+    </div>
+    <div style="margin-top: 10px;">
+        <h3>Yazarlar</h3>
+        <div style="display: flex; flex-direction: column">
+            @foreach (var yazar in model.Yazar)
+            {
+                <div style="margin-bottom: 2px;">
+                    <img style="width: 50px;" src="@yazar.Resim" />
+                    <span style="display:inline-block;width: 200px;"><a href="/kisi/edit/@yazar.Id">@yazar.Isim</a></span>
+                </div>
+            }
+        </div>
+    </div>
+
+    //***********Youtube tanıtımn videosunu ekle (test et)**********************
+<div style="margin-top: 30px;">
+    <h3>Kitap İnceleme Videosu</h3>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/@model.Kitap.TanitimVideo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+    //*********************************
+}
+
+@code {
+    [Parameter] public int KitapId { get; set; }
+    [Parameter] public string KitapName { get; set; }
+    private RenderFragment<Kitaptur> linkKitaptur = (kitaptur) =>@<a href="kitaplar/search?kitapturId=@kitaptur.Id">@kitaptur.Isim</a>;
+    DetailsKitapDTO model;
+
+
+    protected async override Task OnInitializedAsync()
+    {
+        model = await kitaplarRepository.GetDetailsKitapDTO(KitapId);
+    }
+}

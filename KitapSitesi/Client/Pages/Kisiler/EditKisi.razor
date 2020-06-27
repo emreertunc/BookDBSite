@@ -1,0 +1,27 @@
+﻿@page "/kisi/edit/{KisiId:int}"
+@inject IKisiRepository kisiRepository
+@inject NavigationManager navigationManager
+
+<h3>Kişiyi Bilgilerini Düzenle</h3>
+
+@if (Kisi != null)
+{
+    <KisiForm Kisi="Kisi" OnValidSubmit="Edit" />
+}
+
+@code {
+    [Parameter] public int KisiId { get; set; }
+
+    Kisi Kisi;
+
+    protected async override Task OnInitializedAsync()
+    {
+        Kisi = await kisiRepository.GetKisiById(KisiId);
+    }
+
+    private async Task Edit()
+    {
+        await kisiRepository.UpdateKisi(Kisi);
+        navigationManager.NavigateTo("kisiler");
+    }
+}

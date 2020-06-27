@@ -1,0 +1,35 @@
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\OrtakClassLibrary\obj\Debug\netstandard2.0\OrtakClassLibrary.AssemblyInfoInputs.cache
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\OrtakClassLibrary\obj\Debug\netstandard2.0\OrtakClassLibrary.AssemblyInfo.cs
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\OrtakClassLibrary\obj\Debug\netstandard2.0\OrtakClassLibrary.csprojAssemblyReference.cache
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\OrtakClassLibrary\bin\Debug\netstandard2.0\OrtakClassLibrary.deps.json
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\OrtakClassLibrary\bin\Debug\netstandard2.0\OrtakClassLibrary.dll
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\OrtakClassLibrary\bin\Debug\netstandard2.0\OrtakClassLibrary.pdb
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\OrtakClassLibrary\obj\Debug\netstandard2.0\OrtakClassLibrary.dll
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\OrtakClassLibrary\obj\Debug\netstandard2.0\OrtakClassLibrary.pdb
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite\OrtakClassLibrary\obj\Debug\netstandard2.0\OrtakClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite-Rename\RN-KitapSite\OrtakClassLibrary\bin\Debug\netstandard2.0\OrtakClassLibrary.deps.json
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite-Rename\RN-KitapSite\OrtakClassLibrary\bin\Debug\netstandard2.0\OrtakClassLibrary.dll
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite-Rename\RN-KitapSite\OrtakClassLibrary\bin\Debug\netstandard2.0\OrtakClassLibrary.pdb
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite-Rename\RN-KitapSite\OrtakClassLibrary\obj\Debug\netstandard2.0\OrtakClassLibrary.AssemblyInfoInputs.cache
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite-Rename\RN-KitapSite\OrtakClassLibrary\obj\Debug\netstandard2.0\OrtakClassLibrary.AssemblyInfo.cs
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite-Rename\RN-KitapSite\OrtakClassLibrary\obj\Debug\netstandard2.0\OrtakClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite-Rename\RN-KitapSite\OrtakClassLibrary\obj\Debug\netstandard2.0\OrtakClassLibrary.dll
+C:\Users\ertun\OneDrive\Belgeler\dev\Code\Emre Proje\OOP\KitapSite-Rename\RN-KitapSite\OrtakClassLibrary\obj\Debug\netstandard2.0\OrtakClassLibrary.pdb
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\OrtakClassLibrary\bin\Debug\netstandard2.0\OrtakClassLibrary.deps.json
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\OrtakClassLibrary\bin\Debug\netstandard2.0\OrtakClassLibrary.dll
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\OrtakClassLibrary\bin\Debug\netstandard2.0\OrtakClassLibrary.pdb
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\OrtakClassLibrary\obj\Debug\netstandard2.0\OrtakClassLibrary.csprojAssemblyReference.cache
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\OrtakClassLibrary\obj\Debug\netstandard2.0\OrtakClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\OrtakClassLibrary\obj\Debug\netstandard2.0\OrtakClassLibrary.AssemblyInfo.cs
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\OrtakClassLibrary\obj\Debug\netstandard2.0\OrtakClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\OrtakClassLibrary\obj\Debug\netstandard2.0\OrtakClassLibrary.dll
+C:\Users\Emre\Desktop\New folder\RN-KitapSite\OrtakClassLibrary\obj\Debug\netstandard2.0\OrtakClassLibrary.pdb
+C:\Users\Emre\source\repos\RN-KitapSite\OrtakClassLibrary\bin\Debug\netstandard2.0\OrtakClassLibrary.deps.json
+C:\Users\Emre\source\repos\RN-KitapSite\OrtakClassLibrary\bin\Debug\netstandard2.0\OrtakClassLibrary.dll
+C:\Users\Emre\source\repos\RN-KitapSite\OrtakClassLibrary\bin\Debug\netstandard2.0\OrtakClassLibrary.pdb
+C:\Users\Emre\source\repos\RN-KitapSite\OrtakClassLibrary\obj\Debug\netstandard2.0\OrtakClassLibrary.csprojAssemblyReference.cache
+C:\Users\Emre\source\repos\RN-KitapSite\OrtakClassLibrary\obj\Debug\netstandard2.0\OrtakClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Emre\source\repos\RN-KitapSite\OrtakClassLibrary\obj\Debug\netstandard2.0\OrtakClassLibrary.AssemblyInfo.cs
+C:\Users\Emre\source\repos\RN-KitapSite\OrtakClassLibrary\obj\Debug\netstandard2.0\OrtakClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\RN-KitapSite\OrtakClassLibrary\obj\Debug\netstandard2.0\OrtakClassLibrary.dll
+C:\Users\Emre\source\repos\RN-KitapSite\OrtakClassLibrary\obj\Debug\netstandard2.0\OrtakClassLibrary.pdb

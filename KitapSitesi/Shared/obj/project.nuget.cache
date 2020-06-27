@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bcOVBq2Z2u48DpqOWXbZpVfY7AXJUAMAJIBT/JIn9onHK7TOuzVbX7YAkUTXtKXAHgizGm3M9EWsbMI0I5SsZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ertun\\OneDrive\\Belgeler\\dev\\Code\\Emre Proje\\OOP\\KitapSite\\KitapSitesi\\Shared\\KitapSitesi.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ertun\\.nuget\\packages\\system.componentmodel.annotations\\4.6.0\\system.componentmodel.annotations.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

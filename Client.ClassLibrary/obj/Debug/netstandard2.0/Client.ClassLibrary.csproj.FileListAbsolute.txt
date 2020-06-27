@@ -1,0 +1,12 @@
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\Client.ClassLibrary.csprojAssemblyReference.cache
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\Client.ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\Client.ClassLibrary.AssemblyInfo.cs
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\Client.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\Client.ClassLibrary\bin\Debug\netstandard2.0\Client.ClassLibrary.deps.json
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\Client.ClassLibrary\bin\Debug\netstandard2.0\Client.ClassLibrary.dll
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\Client.ClassLibrary\bin\Debug\netstandard2.0\KitapSitesi.Shared.dll
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\Client.ClassLibrary\bin\Debug\netstandard2.0\KitapSitesi.Shared.pdb
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\Client.ClassLibrary.csproj.CopyComplete
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\Client.ClassLibrary\bin\Debug\netstandard2.0\Client.ClassLibrary.pdb
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\Client.ClassLibrary.dll
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\Client.ClassLibrary\obj\Debug\netstandard2.0\Client.ClassLibrary.pdb

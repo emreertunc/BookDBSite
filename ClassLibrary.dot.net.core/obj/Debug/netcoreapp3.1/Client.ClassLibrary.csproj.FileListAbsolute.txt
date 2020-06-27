@@ -1,0 +1,12 @@
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\ClassLibrary.dot.net.core\obj\Debug\netcoreapp3.1\Client.ClassLibrary.csprojAssemblyReference.cache
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\ClassLibrary.dot.net.core\obj\Debug\netcoreapp3.1\Client.ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\ClassLibrary.dot.net.core\obj\Debug\netcoreapp3.1\Client.ClassLibrary.AssemblyInfo.cs
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\ClassLibrary.dot.net.core\obj\Debug\netcoreapp3.1\Client.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\ClassLibrary.dot.net.core\bin\Debug\netcoreapp3.1\Client.ClassLibrary.deps.json
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\ClassLibrary.dot.net.core\bin\Debug\netcoreapp3.1\Client.ClassLibrary.dll
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\ClassLibrary.dot.net.core\bin\Debug\netcoreapp3.1\KitapSitesi.Shared.dll
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\ClassLibrary.dot.net.core\bin\Debug\netcoreapp3.1\KitapSitesi.Shared.pdb
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\ClassLibrary.dot.net.core\obj\Debug\netcoreapp3.1\Client.ClassLibrary.csproj.CopyComplete
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\ClassLibrary.dot.net.core\bin\Debug\netcoreapp3.1\Client.ClassLibrary.pdb
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\ClassLibrary.dot.net.core\obj\Debug\netcoreapp3.1\Client.ClassLibrary.dll
+C:\Users\ertun\Downloads\NavMenuYeni-KitapSite\KitapSite\ClassLibrary.dot.net.core\obj\Debug\netcoreapp3.1\Client.ClassLibrary.pdb

@@ -1,0 +1,56 @@
+﻿@page "/kitapturler"
+@inject IKitapturRepository kitapturRepository
+
+<h3>Kitap Türleri</h3>
+
+<div class="form-group">
+    <a class="btn btn-secondary" href="kitaptur/create">Yeni Tür</a>
+</div>
+
+<GenericList List="Kitapturler">
+    <WholeListTemplate>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th></th>
+                    <th>Isim</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Kitapturler)
+                {
+                    <tr>
+                        <td align="left" width="200px">
+                            <a class="btn btn-secondary" href="/kitaptur/edit/@item.Id">Düzenle</a>
+                            <button class="btn btn-danger" @onclick="@(() => DeleteKitapturler(item.Id))">Sil</button>
+                        </td>
+                        <td>@item.Isim</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </WholeListTemplate>
+</GenericList>
+
+@code {
+
+    List<Kitaptur> Kitapturler;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            Kitapturler = await kitapturRepository.GetKitapturler();
+        }
+        catch (Exception ex)
+        {
+
+        }
+    }
+
+    private async Task DeleteKitapturler(int Id)
+    {
+        await kitapturRepository.DeleteKitaptur(Id);
+        Kitapturler = await kitapturRepository.GetKitapturler();
+    }
+}

@@ -1,0 +1,35 @@
+﻿@page "/kitaplar/edit/{KitapId:int}"
+@inject IKitaplarRepository kitaplarRepository
+@inject NavigationManager navigationManager
+
+<h3>Kitabı Düzenle</h3>
+
+@if (Kitap != null)
+{
+    <KitapForm Kitap="Kitap" OnValidSubmit="Edit" NotSelectedKitapturler="NotSelectedKitapturler"
+               SelectedKitapturler="SelectedKitapturler"
+               SelectedYazarlar="SelectedYazarlar" />
+}
+
+@code {
+    [Parameter] public int KitapId { get; set; }
+    private Kitap Kitap;
+    private List<Kitaptur> NotSelectedKitapturler;
+    private List<Kitaptur> SelectedKitapturler;
+    private List<Kisi> SelectedYazarlar;
+
+    protected async override Task OnInitializedAsync()
+    {
+        var model = await kitaplarRepository.GetKitapForUpdate(KitapId);
+        Kitap = model.Kitap;
+        SelectedYazarlar = model.Yazar;
+        SelectedKitapturler = model.SelectedKitapturler;
+        NotSelectedKitapturler = model.NotSelectedKitapturler;
+    }
+
+    private async Task Edit()
+    {
+        await kitaplarRepository.UpdateKitap(Kitap);
+        navigationManager.NavigateTo($"kitap/{KitapId}/{Kitap.Baslik.Replace(" ", "-")}");
+    }
+}

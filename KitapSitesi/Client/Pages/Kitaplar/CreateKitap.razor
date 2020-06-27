@@ -1,0 +1,36 @@
+﻿@page "/kitaplar/create"
+@inject NavigationManager navigationManager
+@inject IKitaplarRepository kitaplarRepository
+@inject IKitapturRepository kitapturRepository
+
+<h3>Yeni Kitap Kaydı</h3>
+
+@if (NotSelectedKitapturler != null)
+{
+    <KitapForm Kitap="Kitap" OnValidSubmit="SaveKitap" NotSelectedKitapturler="NotSelectedKitapturler" />
+}
+
+@code {
+
+    private Kitap Kitap = new Kitap();
+
+    protected async override Task OnInitializedAsync()
+    {
+        NotSelectedKitapturler = await kitapturRepository.GetKitapturler();
+    }
+
+    private List<Kitaptur> NotSelectedKitapturler;
+
+    private async Task SaveKitap()
+    {
+        try
+        {
+            var kitapId = await kitaplarRepository.CreateKitap(Kitap);
+            navigationManager.NavigateTo($"kitap/{kitapId}/{Kitap.Baslik.Replace(" ", "-")}");
+        }
+        catch (Exception ex)
+        {
+
+        }
+    }
+}

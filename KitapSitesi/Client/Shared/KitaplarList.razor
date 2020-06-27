@@ -1,0 +1,28 @@
+﻿@inject IJSRuntime js
+@inject IKitaplarRepository kitaplarRepository
+
+<div class="kitaplar-container">
+    <GenericList List="Kitaplar">
+        <ElementTemplate Context="kitap">
+            <IndividualKitap Kitap="kitap"
+                             DeleteKitap="DeleteKitap" @key="kitap.Id"  />
+        </ElementTemplate>
+    </GenericList>
+</div>
+
+@code {
+    [Parameter] public List<Kitap> Kitaplar { get; set; }
+
+    private async Task DeleteKitap(Kitap kitap)
+    {
+        await js.MyFunction("custom message");
+        var confirmed = await js.Confirm($"Silmek istediğinizden emin misiniz: {kitap.Baslik}?");
+
+        if (confirmed)
+        {
+            await kitaplarRepository.DeleteKitap(kitap.Id);
+            Kitaplar.Remove(kitap);
+
+        }
+    }
+}
